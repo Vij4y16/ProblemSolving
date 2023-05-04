@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/Char Array to String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Check for Subsquence" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Concatenate Then Reverse" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Count Camel Case Character" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Count Type of Char" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Delete odd index number" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/DisplayLongstName" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/First Repeated Char" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Maximum Occur Char small char" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Revers String" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Reverse Vowels" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Uncomman Characters" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Upper to lower" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
